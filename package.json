@@ -1,0 +1,19 @@
+{
+  "name": "node-workshops",
+  "version": "1.0.0",
+  "description": "Some of my solutions to the workshops on [nodeschool.io](http://nodeschool.io).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrleszcz/node-workshops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrleszcz/node-workshops/issues"
+  },
+  "homepage": "https://github.com/jrleszcz/node-workshops#readme"
+}
