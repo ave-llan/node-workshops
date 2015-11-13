@@ -8,4 +8,5 @@ http.get(url, function (response) {
   response.on('data', function (data) {
     console.log(data)
   })
+  response.on('error', console.error)
 })
