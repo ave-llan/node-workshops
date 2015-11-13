@@ -7,7 +7,7 @@ var directory = process.argv[2],
 fs.readdir(directory,
   function (err, list) {
     if (err) {
-      console.log(err)
+      console.error(err)
     } else {
       list.forEach(function (filename) {
         if (path.extname(filename) === extension)
