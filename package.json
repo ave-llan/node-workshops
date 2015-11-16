@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/jrleszcz/node-workshops#readme",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "jade": "^1.11.0"
   },
   "devDependencies": {
     "expressworks": "^3.2.0"
