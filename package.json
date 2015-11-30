@@ -23,6 +23,7 @@
     "request": "^2.65.0"
   },
   "devDependencies": {
+    "eslint": "^1.10.2",
     "expressworks": "^3.2.0"
   }
 }
